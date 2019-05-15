@@ -14,6 +14,8 @@ Brief Introduction
 This tool is developed based on Google Cloud Speech-to-Text API. It will record the audio stream from the mic and write recognition results to the local TXT file.
 
 
+
+
 Speech To Text Tool V1.0 User Manual
 
 This is a speech-to-text tool developed based on based on ffmpeg tool, Google Cloud Speech-to-Text API and Google Cloud Storage JSON API.
