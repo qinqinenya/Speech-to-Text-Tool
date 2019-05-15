@@ -7,6 +7,7 @@ Current lawful user: sharewithanny@.
 Reference: Google Cloud Speech-to-Text API
 
 Brief Introduction
+
 This tool is developed based on Google Cloud Speech-to-Text API. It will record the audio stream from the mic and write recognition results to the local TXT file.
 
 
